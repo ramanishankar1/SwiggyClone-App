@@ -1,0 +1,35 @@
+.header{
+  width: 50%;
+  height:100px; 
+  }
+.container{
+  width: 70%;
+  margin: auto;
+}
+.body{
+  margin: 30px;
+}
+.header-Wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.logo{
+  padding-right:10px;
+
+  color:orange;
+}
+
+.logo img{
+  width:auto;
+  height: 100px;
+}
+nav a{
+  color: black;
+  text-decoration: none;
+  margin-left: 100px;
+ 
+  
+}
+

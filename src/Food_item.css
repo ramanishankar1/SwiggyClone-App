@@ -1,0 +1,49 @@
+.Container{
+    padding-top: 10px;
+}
+rating{
+    padding-bottom:5px;
+    display: flex;
+}
+.rateLevel{
+    display: flex;
+}
+.rate{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}
+.rate1{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}
+
+
+.rate2{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}
+
+.rate3{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}
+
+.rate4{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}

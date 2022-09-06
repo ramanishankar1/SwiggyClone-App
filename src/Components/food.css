@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+    
+
+.Food-box{
+    width:510px;
+    height: 450px;
+    padding-top:20px ;
+    
+   
+    
+}
+
+.Food-box:hover {
+    box-shadow: 0px 0px 7px 1px grey;
+}
+.Food-images{
+    width: 356px;
+    height: 220px;
+ 
+   
+}
+
+.Fooditems{
+   padding-top: 100px;
+  
+    
+}
+.name{
+    font-weight:bold ;
+    padding-top: 3px;
+}
+.category ul{
+    font-size: 13px;
+    display:flex;
+    padding-left: 25px;
+  
+
+}
+.c1{
+    
+    padding-right: 25px;
+   
+}
+.c2{
+    padding-left: 0;
+}
+.flexArea{
+    display: flex;
+    justify-content: space-between;
+    padding-right:20px;
+    padding-top: 5px;
+    
+}
+
+.rating{
+    padding-bottom:5px;
+    display: flex;
+}
+.rateLevel{
+    display: flex;
+}
+.rate{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}
+.rate1{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}
+
+
+.rate2{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}
+
+.rate3{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}
+
+.rate4{
+    width: 20px;
+    height:20px;
+    padding-top: 2px;
+    background: yellow;
+    padding-left: 3px;
+}

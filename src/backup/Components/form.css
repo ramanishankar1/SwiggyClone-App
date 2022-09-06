@@ -1,0 +1,8 @@
+.Container{
+        margin-top: 50px;
+}
+.form-Wrapper{
+    display: flex;
+    justify-content: center;
+
+}
